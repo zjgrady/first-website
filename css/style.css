@@ -7,11 +7,13 @@
     height: 100px;
     background-color: grey;
     
+  
+    
    
 }
 
 .site-title {
-    margin-bottom: 10px;
+    float: right;
     width: 54%;
     margin: 0 auto;
     font-size: 55;
@@ -21,8 +23,6 @@
 .nav-list { 
     float: right;
     list-style: none;
-   
-    
 }
 
 .nav-item {
@@ -31,9 +31,7 @@
     color: yellow;
     text-decoration: none;
     font-size: 18px;
-   
-    
- }
+}
  
 .nav-item:hover {
     color: green;
