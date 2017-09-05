@@ -1,0 +1,15 @@
+/** Begin about section Styles**/
+.about-container {
+    height: 500px;
+    width: 100%;
+    border: 1px solid #000;
+}
+
+.bio-section {
+    height: 200px;
+    width: 400px;
+    border: 1px solid #000;
+    float: left;
+    margin-left: 25px
+}
+/** End about section Styles**/

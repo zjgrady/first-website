@@ -1,0 +1,15 @@
+/**Begin Russ Content**/
+.picture-gallery {
+    width: 100%;
+    height: 500px;
+    
+}
+
+.image-container {
+    float: left;
+    height: 350px;
+    
+    border: 1px solid black;
+    margin-left: 80px;
+    
+}
